@@ -6,7 +6,7 @@ function Footer() {
   return (
     <FooterBase>
       <a href="/">
-        <img src={Logo} alt="Logo Sciflix" />
+        <img className="Logo" src={Logo} alt="Logo Sciflix" />
       </a>
       <p>
         Orgulhosamente criado durante a
